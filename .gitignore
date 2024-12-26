@@ -160,3 +160,6 @@ cython_debug/
 
 node_modules
 .next
+.1024*
+!.1024
+.breakpoints
